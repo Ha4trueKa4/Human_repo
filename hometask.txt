@@ -1,1 +1,6 @@
 Ветки master и demo отличаются тем что в ветку master не мержились ветки boots и buttons
+
+3 коммита:
+heat added
+Merge remote-tracking branch 'origin/hat'
+Hometask added
